@@ -1,0 +1,10 @@
+.hide {
+  display: none;
+}
+
+#answers li {
+  list-style-type: none;
+}
+.body {
+  text-align: center;
+}
